@@ -24,6 +24,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 ### Information Theory
 
 - [What Context Features Can Transformer Language Models Use?](https://arxiv.org/abs/2106.08367), Jacob Andreas's group. `V-information`
+- [Conditional probing: measuring usable information beyond a baseline](https://arxiv.org/pdf/2109.09234.pdf), Percy Liang's group. `V-information`
 - [On the Complexity and Typology of Inflectional Morphological Systems](https://arxiv.org/pdf/1807.02747.pdf), Ryan Cotterell. `complexity measure`
 
 
@@ -37,3 +38,11 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 ### Discrete optimization
 
 > submodular, Gumbel-Softmax
+
+
+
+### Learning Paradigms
+
+#### Reinforcement Learning
+
+- [Learning Natural Language Generation from Scratch](https://arxiv.org/pdf/2109.09371.pdf), DeepMind.
