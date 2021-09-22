@@ -18,6 +18,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 - [Determinantal Beam Search](https://arxiv.org/abs/2106.07400), Ryan Cotterell's group. `beam search`
 - [Mode recovery in neural autoregressive sequence modeling](https://aclanthology.org/2021.spnlp-1.5.pdf), Kyunghyun Cho's group. `sampling`
 - [Parallel and Flexible Sampling from Autoregressive Models via Langevin Dynamics]()
+- [Searching for More Efficient Dynamic Programs](https://arxiv.org/pdf/2109.06966.pdf), Jason Eisner et al. `dp`
 
 
 
