@@ -33,6 +33,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 ### Geometry
 
 - [The Low-Dimensional Linear Geometry of Contextualized Word Representations](), Jacob Andreas's group.
+- [On Isotropy Calibration of Transformers](https://arxiv.org/pdf/2109.13304.pdf), ETH's group.
 
 
 
