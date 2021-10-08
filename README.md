@@ -5,6 +5,12 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 
 ## Collection of papers by topic
 
+
+### Statistical Principle Based Learning
+
+- [Minimax and Neyman–Pearson Meta-Learning for Outlier Languages](https://aclanthology.org/2021.findings-acl.106.pdf), `Neyman-Pearson`
+
+
 ### Latent Variable Model and its Solution
 
 - [Learning Opinion Summarizers by Selecting Informative Reviews](https://arxiv.org/pdf/2109.04325.pdf), Ivan Titov's group. `REINFORCE` `amortized varitional inference`
