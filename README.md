@@ -59,3 +59,4 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 #### Reinforcement Learning
 
 - [Learning Natural Language Generation from Scratch](https://arxiv.org/pdf/2109.09371.pdf), DeepMind.
+- [Batch size-invariance for policy optimization](https://arxiv.org/pdf/2110.00641.pdf), `ppo`.
