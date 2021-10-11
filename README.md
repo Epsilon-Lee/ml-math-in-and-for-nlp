@@ -11,6 +11,11 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 - [Minimax and Neyman–Pearson Meta-Learning for Outlier Languages](https://aclanthology.org/2021.findings-acl.106.pdf), `Neyman-Pearson`
 
 
+### Feature Selection
+
+- [Rare Feature Selection in High Dimensions](https://arxiv.org/pdf/1803.06675.pdf), `lasso`
+
+
 ### Latent Variable Model and its Solution
 
 - [Learning Opinion Summarizers by Selecting Informative Reviews](https://arxiv.org/pdf/2109.04325.pdf), Ivan Titov's group. `REINFORCE` `amortized varitional inference`
