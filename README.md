@@ -52,7 +52,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 
 > submodular, Gumbel-Softmax
 
-
+- [Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions](https://arxiv.org/pdf/2106.01798.pdf), Oct. 27 2021. `nips2021` [code](https://github.com/uclnlp/torch-imle)
 
 ### Learning Paradigms
 
