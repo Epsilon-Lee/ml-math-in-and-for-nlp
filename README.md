@@ -52,6 +52,9 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 
 > submodular, Gumbel-Softmax
 
+- [Towards Dynamic Computation Graphs via Sparse Latent Structure](https://arxiv.org/abs/1809.00653), `emnlp2018` [marginalize](https://vene.ro/talks/21-marginalize.pdf).
+- [Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder](https://arxiv.org/abs/1807.09875), `iclr2019`
+- [Backpropagating through Structured Argmax using a SPIGOT](https://aclanthology.org/P18-1173/), `acl2018`
 - [Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions](https://arxiv.org/pdf/2106.01798.pdf), Oct. 27 2021. `nips2021` [code](https://github.com/uclnlp/torch-imle)
 - [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions](https://arxiv.org/pdf/2102.05379.pdf), Oct. 22 2021.
 
