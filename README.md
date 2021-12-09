@@ -8,13 +8,9 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 
 ### Statistical Principle Based Learning
 
+> density/distribution estimation over structures, generative story
+
 - [Minimax and Neyman–Pearson Meta-Learning for Outlier Languages](https://aclanthology.org/2021.findings-acl.106.pdf), `Neyman-Pearson`
-
-
-### Feature Selection
-
-- [Rare Feature Selection in High Dimensions](https://arxiv.org/pdf/1803.06675.pdf), `lasso`
-
 
 ### Latent Variable Model and its Solution
 
@@ -22,6 +18,10 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 - [Sequence-to-Sequence Learning with Latent Neural Grammars](https://arxiv.org/abs/2109.01135), Yoon Kim. `likelihood bounding`
 - [Structured Reordering for Modeling Latent Alignments in Sequence Transduction](https://arxiv.org/abs/2106.03257), Ivan Titov's group. `marginalization`
 
+
+### Feature Selection
+
+- [Rare Feature Selection in High Dimensions](https://arxiv.org/pdf/1803.06675.pdf), `lasso`
 
 
 ### Sampling and Search Techniques
