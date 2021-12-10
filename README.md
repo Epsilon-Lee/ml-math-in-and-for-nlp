@@ -57,6 +57,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 - [Backpropagating through Structured Argmax using a SPIGOT](https://aclanthology.org/P18-1173/), `acl2018`
 - [Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions](https://arxiv.org/pdf/2106.01798.pdf), Oct. 27 2021. `nips2021` [code](https://github.com/uclnlp/torch-imle)
 - [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions](https://arxiv.org/pdf/2102.05379.pdf), Oct. 22 2021.
+- [Understanding and Testing Generalization of Deep Networks on Out-of-Distribution Data](https://github.com/HEmile/storchastic), `nips2021` [code](https://github.com/HEmile/storchastic)
 
 ### Learning Paradigms
 
