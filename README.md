@@ -14,6 +14,8 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 
 ### Latent Variable Model and its Solution
 
+> variational inference, normalizing flow
+
 - [Learning Opinion Summarizers by Selecting Informative Reviews](https://arxiv.org/pdf/2109.04325.pdf), Ivan Titov's group. `REINFORCE` `amortized varitional inference`
 - [Sequence-to-Sequence Learning with Latent Neural Grammars](https://arxiv.org/abs/2109.01135), Yoon Kim. `likelihood bounding`
 - [Structured Reordering for Modeling Latent Alignments in Sequence Transduction](https://arxiv.org/abs/2106.03257), Ivan Titov's group. `marginalization`
