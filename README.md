@@ -60,6 +60,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 - [Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions](https://arxiv.org/pdf/2106.01798.pdf), Oct. 27 2021. `nips2021` [code](https://github.com/uclnlp/torch-imle)
 - [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions](https://arxiv.org/pdf/2102.05379.pdf), Oct. 22 2021.
 - [Understanding and Testing Generalization of Deep Networks on Out-of-Distribution Data](https://github.com/HEmile/storchastic), `nips2021` [code](https://github.com/HEmile/storchastic)
+- [Storchastic: A Framework for General Stochastic Automatic Differentiation](https://arxiv.org/abs/2104.00428), `nips2021`
 
 ### Learning Paradigms
 
