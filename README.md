@@ -33,6 +33,9 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 - [Parallel and Flexible Sampling from Autoregressive Models via Langevin Dynamics]()
 - [Searching for More Efficient Dynamic Programs](https://arxiv.org/pdf/2109.06966.pdf), Jason Eisner et al. `dp`
 
+#### Sampling from Energy-based Model
+
+- [Sampling from Discrete Energy-Based Models with Quality/Efficiency Trade-offs](https://arxiv.org/pdf/2112.05702.pdf), Dec. 10 2021. `nips2021`
 
 
 ### Information Theory
