@@ -55,7 +55,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 
 ### Discrete optimization
 
-> submodular, Gumbel-Softmax
+> submodular, Gumbel-Softmax, optimization for structured prediction
 
 - [Towards Dynamic Computation Graphs via Sparse Latent Structure](https://arxiv.org/abs/1809.00653), `emnlp2018` [marginalize](https://vene.ro/talks/21-marginalize.pdf).
 - [Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder](https://arxiv.org/abs/1807.09875), `iclr2019`
@@ -64,6 +64,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 - [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions](https://arxiv.org/pdf/2102.05379.pdf), Oct. 22 2021.
 - [Understanding and Testing Generalization of Deep Networks on Out-of-Distribution Data](https://github.com/HEmile/storchastic), `nips2021` [code](https://github.com/HEmile/storchastic)
 - [Storchastic: A Framework for General Stochastic Automatic Differentiation](https://arxiv.org/abs/2104.00428), `nips2021`
+- [Scaling Structured Inference with Randomization](https://arxiv.org/pdf/2112.03638.pdf), Dec. 7 2021.
 
 ### Learning Paradigms
 
