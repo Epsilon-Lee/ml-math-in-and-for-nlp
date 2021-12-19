@@ -11,6 +11,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 > density/distribution estimation over structures, generative story
 
 - [Minimax and Neyman–Pearson Meta-Learning for Outlier Languages](https://aclanthology.org/2021.findings-acl.106.pdf), `Neyman-Pearson`
+- [Annealing Techniques for Unsupervised Statistical Language Learning](https://aclanthology.org/P04-1062.pdf), `deterministic annealing`
 
 ### Latent Variable Model and its Solution
 
