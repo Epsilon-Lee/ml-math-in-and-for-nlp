@@ -66,6 +66,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 - [Understanding and Testing Generalization of Deep Networks on Out-of-Distribution Data](https://github.com/HEmile/storchastic), `nips2021` [code](https://github.com/HEmile/storchastic)
 - [Storchastic: A Framework for General Stochastic Automatic Differentiation](https://arxiv.org/abs/2104.00428), `nips2021`
 - [Scaling Structured Inference with Randomization](https://arxiv.org/pdf/2112.03638.pdf), Dec. 7 2021.
+- [Learning with Latent Structures in Natural Language Processing: A Survey](https://arxiv.org/pdf/2201.00490.pdf), Jan. 3 2022.
 
 ### Learning Paradigms
 
