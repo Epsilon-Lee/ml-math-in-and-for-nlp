@@ -5,13 +5,16 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 
 ## Collection of papers by topic
 
-
 ### Statistical Principle Based Learning
 
 > density/distribution estimation over structures, generative story
 
 - [Minimax and Neyman–Pearson Meta-Learning for Outlier Languages](https://aclanthology.org/2021.findings-acl.106.pdf), `Neyman-Pearson`
 - [Annealing Techniques for Unsupervised Statistical Language Learning](https://aclanthology.org/P04-1062.pdf), `deterministic annealing`
+
+#### Statistical Divergence
+
+- [Probability Divergences and Generative Models](https://www.gatsby.ucl.ac.uk/~gretton/papers/paiss21.pdf), Arthur Gretton's talk `mlss2021`
 
 ### Latent Variable Model and its Solution
 
@@ -22,7 +25,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 - [Structured Reordering for Modeling Latent Alignments in Sequence Transduction](https://arxiv.org/abs/2106.03257), Ivan Titov's group. `marginalization`
 
 
-### Feature Selection
+### Feature/Variable Selection
 
 - [Rare Feature Selection in High Dimensions](https://arxiv.org/pdf/1803.06675.pdf), `lasso`
 
