@@ -70,6 +70,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 - [Storchastic: A Framework for General Stochastic Automatic Differentiation](https://arxiv.org/abs/2104.00428), `nips2021`
 - [Scaling Structured Inference with Randomization](https://arxiv.org/pdf/2112.03638.pdf), Dec. 7 2021.
 - [Learning with Latent Structures in Natural Language Processing: A Survey](https://arxiv.org/pdf/2201.00490.pdf), Jan. 3 2022.
+- [Gradient Estimation with Discrete Stein Operators](https://arxiv.org/pdf/2202.09497.pdf), Feb. 19 2022.
 
 ### Learning Paradigms
 
