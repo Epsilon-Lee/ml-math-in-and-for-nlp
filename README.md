@@ -1,7 +1,7 @@
 # ml-and-math-in-for-nlp
 An evolving notes on machine learning and mathematical techniques in and for Natural Language Processing.
 
-
+***Update*** - *Currently, I am not knowledgeable enough to determine the content to be included in this notebook; so I might include several specific research papers that requrie certain aspect of math and ml expertise, so as to enumerate the extension of ml and math for nlp. (2022.10.2)*
 
 ## Collection of papers by topic
 
