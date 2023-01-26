@@ -1,7 +1,8 @@
 # ml-and-math-in-for-nlp
+
 An evolving notes on machine learning and mathematical techniques in and for Natural Language Processing.
 
-***Update*** - *Currently, I am not knowledgeable enough to determine the content to be included in this notebook; so I might include several specific research papers that requrie certain aspect of math and ml expertise, so as to enumerate the extension of ml and math for nlp. (2022.10.2)*
+***Update*** - *Currently, I am not knowledgeable enough to determine the content to be included in this booklet; so I might include several specific research papers that require certain aspect of math and ml expertise, so as to enumerate the extension of ml and math for nlp. (2022.10.2)*
 
 ## Collection of papers by topic
 
@@ -23,7 +24,7 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 - [Learning Opinion Summarizers by Selecting Informative Reviews](https://arxiv.org/pdf/2109.04325.pdf), Ivan Titov's group. `REINFORCE` `amortized varitional inference`
 - [Sequence-to-Sequence Learning with Latent Neural Grammars](https://arxiv.org/abs/2109.01135), Yoon Kim. `likelihood bounding`
 - [Structured Reordering for Modeling Latent Alignments in Sequence Transduction](https://arxiv.org/abs/2106.03257), Ivan Titov's group. `marginalization`
-
+- [Discrete Latent Structure in Neural Networks](https://arxiv.org/pdf/2301.07473.pdf), Jan. 18 2023. `booklet` in structure prediction.
 
 ### Feature/Variable Selection
 
@@ -54,7 +55,6 @@ An evolving notes on machine learning and mathematical techniques in and for Nat
 
 - [The Low-Dimensional Linear Geometry of Contextualized Word Representations](), Jacob Andreas's group.
 - [On Isotropy Calibration of Transformers](https://arxiv.org/pdf/2109.13304.pdf), ETH's group.
-
 
 
 ### Discrete optimization
